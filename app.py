@@ -125,6 +125,21 @@ def generate_content():
         "processing_time": "00:02:15",
         "quality_score": 8.7
     })
+@app.route('/api/roles/activate', methods=['POST'])
+def activate_role():
+    data = request.get_json()
+    role_id = data.get('role_id', 'content_strategist_001')
+    
+    # Load role configuration
+    with open(f'roles/{role_id.replace("_001", "")}.json', 'r') as f:
+        role_config = json.load(f)
+    
+    return jsonify({
+        "role_activated": role_config["name"],
+        "cognitive_profile": role_config["cognitive_profile"],
+        "status": "ready_for_input",
+        "prompt_template": role_config["prompt_template"]
+    })
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 8080))
