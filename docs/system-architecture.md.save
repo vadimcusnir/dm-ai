@@ -1,0 +1,15 @@
+# Arhitectura Sistemului
+
+## Componente Principale
+- Content Engine (roles/)
+- Process Control (workflows/)
+- Intelligence Layer (intelligence/)
+- Performance Tracking (metrics/)
+
+## Fluxul de Date
+Content Request → AI Role → Workflow → Output → Metrics
+
+## Punctele de Integrare
+- API connections (automation/)
+- Asset management (assets/)
+- Funnel tracking (funnel/)

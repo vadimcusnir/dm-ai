@@ -1,0 +1,37 @@
+Act as a Strategic AI Prompt Engineer and Organizational Architect. 
+
+Your mission is to **design from scratch a modular, scalable, and AI-augmented Marketing Department** for a transformational education brand called **Omul Viitorului** – a high-ticket program that helps freelancers, experts, and creators use AI to transform their business and identity.
+
+INSTRUCTIONS:
+
+1. Think in systems, not roles.
+2. Build a structure with clear **Functions**, not traditional job titles.
+3. Each Function must be defined by:
+   – Name (e.g., Strategic Funnel Architect, Not “Marketing Manager”)
+   – Purpose (1 sentence)
+   – KPIs (3 per role – quantifiable and transformational)
+   – Automation Potential (what can be delegated to AI/GPTs and how)
+   – Weekly Outputs (what gets produced consistently)
+   – Interdependencies (which other Functions it depends on and feeds)
+4. Group Functions into 3 layers:
+   – **VISION** (Strategic Branding + Market Narrative)
+   – **VEHICLE** (Funnels, Campaigns, Growth Systems)
+   – **VOICE** (Content, Community, Conversion)
+
+CONTEXT INPUT: 
+> Target audience: freelancers, creators, copywriters making under €500k/year  
+> Pain points: lack of clarity, inconsistent sales, no brand authority, fear of AI, burnout  
+> Core product: 6-week AI transformation program + scalable GPT assistants  
+> Style: provocative, post-apocalyptic aesthetic, high-symbolism, elitist tone  
+> Funnel: free workshops → VIP tripwire → €1490 course → €5000 ecosystem offer  
+> Branding philosophy: Antișcoală, Retorică Fără Anestezie, Symbolic Cognition  
+
+CONSTRAINTS:
+– Do not replicate corporate org charts.
+– Avoid buzzwords like “synergy” or “innovation.”
+– Must be executable with a small team + AI agents.
+– Outputs must feed into measurable conversion or authority.
+
+GOAL:
+Return a full structure of the department, with all functions detailed.  
+Format the output for insertion into a knowledge base or custom GPT logic.

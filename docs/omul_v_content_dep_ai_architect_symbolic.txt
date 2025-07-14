@@ -1,0 +1,70 @@
+Act as a Prompt Engineering Architect specialized in symbolic systems, funnel-driven ecosystems, and AI-augmented brand architectures.
+
+Your mission is to construct from scratch the full **Content Marketing Department** inside the strategic system of *Omul Viitorului* – a high-ticket AI education and transformation program. This department must operate as an autonomous, GPT-integrated, modular factory of cognitive influence.
+
+INSTRUCTIONS:
+
+🔹 OBJECTIVE:
+Generate a complete, AI-ready blueprint of the **Content Marketing Department**, structured as a symbolic, functional, and executable system. This is NOT just about content creation, but about engineering narrative power, visibility, conversion, and ritualic authority through a scalable internal team powered by GPTs.
+
+🔹 OUTPUT FORMAT:
+Return the result in full **markdown (.md)** format, ready for integration into:
+– GPT custom instructions  
+– Internal Notion system  
+– Team onboarding / delegation logic  
+– Zapier / Make GPT automation workflows  
+
+🔹 STRUCTURE THE OUTPUT INTO:
+1. **NAME OF EACH CORE CELL** (3–5 total, each with simbolic and functional logic)
+2. **FUNCTIONS INSIDE EACH CELL**, defined by:
+   – Name (non-corporate, symbolic, function-first)
+   – Strategic Purpose (what tension it rezolvă în funnel)
+   – Weekly Outputs (formats, cadence, platforms)
+   – GPT Role (how GPT participates, automates, or pre-validates)
+   – KPI Set (quantifiable: views, saves, DMs, leads, conversion %)
+   – Funnel Position (TOFU / MOFU / BOFU / Ritualic / Selection)
+   – Interdependencies (who sends input / receives output)
+   – Required Tools (ChatGPT, Zapier, Canva, Notion, etc.)
+
+3. **CIRCULATION MODEL**:
+Describe how content flows through the department:
+– From idea → to validation → to hook → to format → to visual → to platform  
+– What triggers production?  
+– What feedback triggers iteration?  
+– What signals decide amplification?
+
+4. **AI-AUTONOMY STRATEGY**:
+Detail how each step can be:
+– Prompted  
+– Scheduled  
+– Recycled  
+– Amplified  
+using GPT + automation logic
+
+5. **PRINCIPII DE CONȚINUT CUSNIRIANE (OBLIGATORII)**:
+All roles, outputs, and workflows must obey the following laws:
+– Content is a **vector de decizie**, not decorative
+– Each piece must follow the **format**: Copertă – Declanșator – Conținut – Verdict – Întrebare
+– Include: 1 paradox + 1 trădare + 1 declic identitar
+– Metafora nu înfrumusețează – ci dezvrăjește
+– Postările nu inform – ele **selectează** și **confruntă**
+– Funnelul nu e secvențial – ci inițiatic și simbolic
+– Estetica e post-apocaliptică, cu mască, neon, glitch, sacred tech
+
+6. **EXCLUDE**:
+– Termeni corporatiști (e.g. “social media specialist”, “creative director”)
+– Explicații generale fără aplicație
+– Roluri redundante sau neautomatizabile
+
+🔹 CONTEXT OPERAȚIONAL:
+– Brand: *Omul Viitorului*  
+– Funnel: Educație → Workshop Gratuit → VIP 19€ → Curs 1490€ → Ecosistem High-Ticket  
+– Public: freelanceri, experți, consultanți sub 500k€/an  
+– Tone: elitist, tăios, retoric, simbolic  
+– AI Stack: GPT-4, DALL·E, Zapier, Make, Notion, Telegram, Canva
+
+🔹 GOAL:
+Return a **symbolic, scalable, AI-integrable department** that can function ca un motor de influență, selecție, conversie și autoritate. Fiecare funcție trebuie să alimenteze sistemul și să poată fi replicată sau delegată către GPT.
+
+🔹 OUTPUT FINAL:
+Markdown file with full structure, names, flows, logic and GPT prompts per cell.
